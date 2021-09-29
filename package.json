@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.5.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bvari2890/Team-Profile-Generator"
+  },
+  "bugs": {
+    "url": "https://github.com/Bvari2890/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Bvari2890/Team-Profile-Generator#readme"
+}
